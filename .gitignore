@@ -1,0 +1,9 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Game specific
+# high_score.txt
+*.wav
+*.mp3
